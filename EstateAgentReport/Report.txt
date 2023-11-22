@@ -1,0 +1,7 @@
+ESTATE AGENT REPORT
+*************************************************
+AGENT LOCATION: Pretoria
+AGENT NAME: Larry 
+PROPERTY PRICE: R 4000000
+COMMISSION PERCENTAGE 13%
+CALCULATED COMMISSION: R 520000.0*************************************************
